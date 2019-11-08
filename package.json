@@ -1,8 +1,26 @@
 {
   "name": "webpack_vs_parcel",
   "version": "1.0.0",
-  "dependencies": {
-    "webpack": "^4.41.2",
-    "parcel": "^1.12.4"
-  }
+  "dependencies": {},
+  "description": "demo repo to analyse webpack &amp; parcel (this shall be used to create boilerplate setup in future)",
+  "main": "index.js",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "parcel src/pug/index.pug --open",
+      "build": "parcel build src/pug/index.pug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shobhitsingh29/webpack_vs_parcel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shobhitsingh29/webpack_vs_parcel/issues"
+  },
+  "homepage": "https://github.com/shobhitsingh29/webpack_vs_parcel#readme"
 }
