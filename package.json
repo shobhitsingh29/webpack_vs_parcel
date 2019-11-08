@@ -1,0 +1,8 @@
+{
+  "name": "webpack_vs_parcel",
+  "version": "1.0.0",
+  "dependencies": {
+    "webpack": "^4.41.2",
+    "parcel": "^1.12.4"
+  }
+}
