@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "autoprefixer": "^9.7.1",
-    "pug": "^2.0.4",
+    "pug": "^3.0.2",
     "sass": "^1.23.3"
   },
   "description": "demo repo to analyse webpack &amp; parcel (this shall be used to create boilerplate setup in future)",
