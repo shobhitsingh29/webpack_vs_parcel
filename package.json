@@ -9,7 +9,7 @@
   "description": "demo repo to analyse webpack &amp; parcel (this shall be used to create boilerplate setup in future)",
   "main": "index.js",
   "devDependencies": {
-    "parcel-bundler": "1.12.0"
+    "parcel-bundler": "1.12.5"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
